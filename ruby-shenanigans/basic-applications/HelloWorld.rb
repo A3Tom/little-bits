@@ -2,4 +2,6 @@ def hi
     puts "Sapnin bawjaws"
 end
 
-hi()
+if __FILE__ == $0
+    hi()
+end
