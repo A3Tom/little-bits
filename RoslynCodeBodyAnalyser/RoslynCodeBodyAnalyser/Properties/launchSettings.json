@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RoslynCodeBodyAnalyser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Dir_Goes_Here"
+    }
+  }
+}
